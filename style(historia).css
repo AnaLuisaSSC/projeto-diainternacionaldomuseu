@@ -1,0 +1,83 @@
+h1{
+    text-align: center;
+}
+.MENU {
+    overflow: hidden;
+    background-color: #333;
+    }
+
+.MENU a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.MENU a:hover {
+background-color: #4cadb4;
+color: rgb(0, 0, 0);
+}
+
+.MENU a.active {
+    background-color: #0489aa;
+    color: white;
+}
+.inicio{
+    text-align: center;
+}
+.img1{
+    transition: all .5s;
+    border: 10px solid transparent;
+    }
+.img1:hover{
+    border: 10px solid #136497;
+    border-radius: 50%;
+}
+.img2{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.img2:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+.img3{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.img3:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+.img4{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.img4:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+.img5{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.img5:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+.img6{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+    
+.img6:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
